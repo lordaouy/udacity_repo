@@ -8,3 +8,4 @@ this is repo for udacity ml devops Working with Others Using Version Control
 - `git push`
 - `git pull`
 - `git branch`
+- `git checkout`
