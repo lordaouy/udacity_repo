@@ -9,3 +9,5 @@ this is repo for udacity ml devops Working with Others Using Version Control
 - `git pull`
 - `git branch`
 - `git checkout`
+- `git checkout -b <branch-to-go>`
+
